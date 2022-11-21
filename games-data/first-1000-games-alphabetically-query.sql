@@ -1,0 +1,1 @@
+SELECT TOP 1000 * From games ORDER BY name;
